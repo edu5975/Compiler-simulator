@@ -1,0 +1,29 @@
+programa $fdsafsa {
+    ent $gfdsg,$fdaf;
+    rea $fdsa,$gfsd;
+
+    subrutina $gfdgfds(){
+        entrada();
+        mientras($tres>$cuatro){
+            $gfds = entrada();
+        }
+    }
+
+    subrutina $gfdgfds(){
+        si($uno <= $dos){
+            salida("hola" _ "ya funciona");
+        }
+
+        si($cuatro <= $cinco){
+            salida(432423);
+        }
+        sino{
+            entrada();
+        }
+    }
+
+    principal() {
+        entrada();
+    }
+}
+
